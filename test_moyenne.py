@@ -20,7 +20,3 @@ if __name__ == "__main__":
 
 
 
-# # git lens extesion
-# fichier log retrace tout ce qui est dans le projet (brouillon teste )
-# fichier ingore 
-# fichier enve contient tout ce qui est privé acces donc mot de passge clé api
