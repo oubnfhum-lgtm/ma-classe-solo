@@ -17,3 +17,10 @@ class TestMoyenne(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+
+# # git lens extesion
+# fichier log retrace tout ce qui est dans le projet (brouillon teste )
+# fichier ingore 
+# fichier enve contient tout ce qui est privé acces donc mot de passge clé api
