@@ -5,3 +5,9 @@
 
 comment ignorer certain fichier  voir le fichier .gitignore
 
+
+
+
+
+
+
